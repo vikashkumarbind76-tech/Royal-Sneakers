@@ -1,0 +1,7 @@
+{
+  "name": "Royal Sneakers & Apparels",
+  "description": "A premium, modern e-commerce experience for Brooklyn's finest streetwear and footwear boutique.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
